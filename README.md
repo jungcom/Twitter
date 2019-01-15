@@ -1,0 +1,2 @@
+# Twitter
+A MOCK UI OF THE TWITTER APP
